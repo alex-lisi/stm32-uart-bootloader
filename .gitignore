@@ -1,0 +1,29 @@
+# Build outputs
+Debug/
+Release/
+*.bin
+*.elf
+*.hex
+*.map
+*.list
+
+# IDE files
+.settings/
+.cproject
+.project
+.mxproject
+
+# Generated files
+*.d
+*.o
+*.su
+*.cyclo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
